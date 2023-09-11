@@ -6,11 +6,11 @@ build-backend = "setuptools.build_meta"
 name = "adoutils"
 version = "0.2.0"
 authors = [
-    { name="Gonzalo Pincheira", email="g.pincheira.a@gmail.com" },
+    { name="Gonzalo Pincheira", email="javiercaceres1511@gmail.com" },
 ]
 description = "A small example package"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -21,5 +21,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/gpincheiraa/ado-utils"
-"Bug Tracker" = "https://github.com/gpincheiraa/ado-utils/issues"
+"Homepage" = "https://github.com/Javier-Caceres-M/ado-fork"
+"Bug Tracker" = "https://github.com/Javier-Caceres-M/ado-fork/issues"
